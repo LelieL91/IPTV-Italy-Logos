@@ -1,4 +1,5 @@
 # TVH-Italy-Logos
+[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.it.md)
 
 ### Work in progress Picons repository for Italian TVHeadend Channel Logos
 ---
