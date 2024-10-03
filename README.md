@@ -1,8 +1,28 @@
-# TVH-Italy-Logos
-[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md)
+<h1 align="center">TVH-Italy-Logos</h1>
+<!--
+  [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md)
+  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md)
+  [![](https://img.shields.io/discord/726791153483120680?logo=discord&logoColor=white)](https://discord.gg/6hwgFZaVuT)
+-->
+<p align="center">
+  <a href="https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md">
+    <img src="https://img.shields.io/badge/lang-it-blue.svg"
+      alt="Italiano"></a>
+  <a href="https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md">
+    <img src="https://img.shields.io/badge/lang-en-red.svg"
+      alt="English"></a>
+  <a href="https://discord.gg/6hwgFZaVuT">
+    <img src="https://img.shields.io/discord/726791153483120680?logo=discord&logoColor=white"
+      alt="Chat on Discord"></a>
+</p>
+<!--
+[![](https://dcbadge.limes.pink/api/server/6hwgFZaVuT)](https://discord.gg/6hwgFZaVuT)
+[![](https://dcbadge.limes.pink/api/server/6hwgFZaVuT?style=flat-square)](https://discord.gg/6hwgFZaVuT)
+-->
 
-### Archivio Picons per Loghi Canale italiani DVB-T2 (TVHeadend compatibile)
+<!-- ### Archivio Picons per Loghi Canale italiani DVB-T2 (TVHeadend compatibile) -->
+<h3 align="center">Archivio Picons per Loghi Canale italiani DVB-T2 (TVHeadend compatibile)</h3>
+
 ---
 ### Come aggiungere l'archivio a TVHeadend?
 #### Passaggi configurazione TVHeadend:
