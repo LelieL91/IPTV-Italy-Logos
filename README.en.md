@@ -45,10 +45,10 @@ Rai 3 TGR Sicilia:
 - [x] Basilicata
 - [x] Calabria
 - [ ] Campania
-- [ ] Emilia-Romagna
+- [x] Emilia-Romagna
 - [ ] Lazio
 - [ ] Liguria
-- [ ] Lombardia
+- [x] Lombardia
 - [ ] Marche
 - [ ] Molise
 - [ ] Piemonte
@@ -59,5 +59,5 @@ Rai 3 TGR Sicilia:
 - [ ] Trentino-Alto Adige
 - [ ] Umbria
 - [ ] Valle d'Aosta
-- [ ] Veneto
+- [x] Veneto
 ---
