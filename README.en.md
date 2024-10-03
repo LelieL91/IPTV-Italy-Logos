@@ -1,8 +1,18 @@
-# TVH-Italy-Logos
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md)
-[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md)
+<h1 align="center">TVH-Italy-Logos</h1>
+<p align="center">
+  <a href="https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md">
+    <img src="https://img.shields.io/badge/lang-en-red.svg"
+      alt="English"></a>
+  <a href="https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md">
+    <img src="https://img.shields.io/badge/lang-it-blue.svg"
+      alt="Italiano"></a>
+  <a href="https://discord.gg/6hwgFZaVuT">
+    <img src="https://img.shields.io/discord/726791153483120680?logo=discord&logoColor=white"
+      alt="Chat on Discord"></a>
+</p>
 
-### Picons repository for DVB-T2 italian Channel Logos (TVHeadend compatible)
+<h3 align="center">Picons repository for DVB-T2 italian Channel Logos (TVHeadend compatible)</h3>
+
 ---
 ### How to add this repository to TVH?
 #### TVHeadend configuration steps:
