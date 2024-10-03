@@ -2,34 +2,34 @@
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md)
 
-### Work in progress Picons repository for Italian TVHeadend Channel Logos
+### Archivio Picons per Loghi Canale italiani DVB-T2 (TVHeadend compatibile)
 ---
-### How to add this repository to your TVH?
-#### TVHeadend Configuration Steps:
-1. Login to your TVHeadend Web Interface: http://localhost:9981
-2. Open `Configuration` > `General` > `Base` tab
-3. Scroll until `Channel icon/Picon Settings` menu
-4. Add to `Picon path` field: https://raw.githubusercontent.com/LelieL91/TVH-Italy-Logos/refs/heads/main/logos/220x132
-5. Leave `Picon name scheme` field as default value: **Standard**
-6. Click on `Save` button
+### Come aggiungere l'archivio a TVHeadend?
+#### Passaggi configurazione TVHeadend:
+1. Accedi all'interfaccia web di TVHeadend: http://localhost:9981
+2. Apri le tab `Configurazione` > `Generale` > `Base`
+3. Scorri fino al menu `Channel icon/Picon Settings`
+4. Aggiungi al campo `Picon path`: https://raw.githubusercontent.com/LelieL91/TVH-Italy-Logos/refs/heads/main/logos/220x132
+5. Lascia il campo `Picon name scheme` come predefinito: **Predefinito**
+6. Premi sul pulsante `Salva`
 ---
-### Missing Channel Logos
-#### Since this is a free-time work in progress repository, many logos are still missing, mostly the regional ones
-- Submit a Request if you want other italian logos to be added
-- Provide the following mandatory informations (or the Request will be refused):
-  - Channel name (incl. HD tag if present)
-  - Channel number
-  - Correct picon file name
+### Loghi Canale Mancanti
+#### Poiché questo archivio è un lavoro per il tempo libero, molti canali sono ancora mancanti, principalmente i canali regionali
+- Inviare una **Request** se desideri aggiungere altri loghi italiani
+- Fornire le seguenti informazioni obbligatorie (o la **Request** verrà rifiutata):
+  - **Nome canale** (incl. HD tag se presente)
+  - **Numero canale**
+  - **Nome file Picon corretto**
 
-If the requested channel logo is used on multiple Channels, provide all the mandatory informations as showed in the section below.
-#### Feels free to submit the missing logo in 220x132 PNG format with transparent background
+Se il logo del canale richiesto viene utilizzato su più canali, fornire tutte le informazioni obbligatorie come mostrato nella sezione seguente.
+#### Sentiti libero di inviare il logo mancante in formato PNG 220x132 con sfondo trasparente
 ---
-### Rai 3 TGR Regional logos check list
-#### Submit a Request suggesting one of the missing Rai 3 logos as the format below:
+### Lista loghi Rai 3 TGR già inclusi
+#### Invia una Request suggerendo uno dei loghi Rai 3 TGR mancanti nel formato seguente:
 ```
 Rai 3 TGR Sicilia:
-- Channel 3: 1_0_16_619_CB_217C_EEEE0000_0_0_0.png
-- Channel 823: 1_0_16_61C_CB_217C_EEEE0000_0_0_0.png
+- Canale 3: 1_0_16_619_CB_217C_EEEE0000_0_0_0.png
+- Canale 823: 1_0_16_61C_CB_217C_EEEE0000_0_0_0.png
 ```
 - [ ] Abruzzo
 - [x] Basilicata
