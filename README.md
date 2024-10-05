@@ -1,14 +1,14 @@
-<h1 align="center">TVH-Italy-Logos</h1>
+<h1 align="center">IPTV-Italy-Logos</h1>
 <!--
-  [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md)
-  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md)
+  [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/LelieL91/IPTV-Italy-Logos/blob/main/README.md)
+  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LelieL91/IPTV-Italy-Logos/blob/main/README.en.md)
   [![](https://img.shields.io/discord/726791153483120680?logo=discord&logoColor=white)](https://discord.gg/6hwgFZaVuT)
 -->
 <p align="center">
-  <a href="https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.md">
+  <a href="https://github.com/LelieL91/IPTV-Italy-Logos/blob/main/README.md">
     <img src="https://img.shields.io/badge/lang-it-blue.svg"
       alt="Italiano"></a>
-  <a href="https://github.com/LelieL91/TVH-Italy-Logos/blob/main/README.en.md">
+  <a href="https://github.com/LelieL91/IPTV-Italy-Logos/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg"
       alt="English"></a>
   <a href="https://discord.gg/6hwgFZaVuT">
@@ -29,7 +29,7 @@
 1. Accedi all'interfaccia web di TVHeadend: http://localhost:9981
 2. Apri le tab `Configurazione` > `Generale` > `Base`
 3. Scorri fino al menu `Channel icon/Picon Settings`
-4. Aggiungi al campo `Picon path`: https://raw.githubusercontent.com/LelieL91/TVH-Italy-Logos/refs/heads/main/logos/220x132
+4. Aggiungi al campo `Picon path`: https://raw.githubusercontent.com/LelieL91/IPTV-Italy-Logos/refs/heads/main/logos/220x132
 5. Lascia il campo `Picon name scheme` come predefinito: **Predefinito**
 6. Premi sul pulsante `Salva`
 ---
