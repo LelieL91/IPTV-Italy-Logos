@@ -14,6 +14,10 @@
   <a href="https://discord.gg/6hwgFZaVuT">
     <img src="https://img.shields.io/discord/726791153483120680?logo=discord&logoColor=white"
       alt="Chat on Discord"></a>
+  <br>
+  <a href="https://ko-fi.com/leliel91">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg"
+      alt="ko-fi"></a>
 </p>
 <!--
 [![](https://dcbadge.limes.pink/api/server/6hwgFZaVuT)](https://discord.gg/6hwgFZaVuT)
@@ -24,7 +28,8 @@
 <h3 align="center">Archivio Picons per Loghi Canale italiani DVB-T2 (TVHeadend compatibile)</h3>
 
 ---
-### Come aggiungere l'archivio a TVHeadend?
+<h2>Come aggiungere l'archivio a TVHeadend?</h2>
+
 #### Passaggi configurazione TVHeadend:
 1. Accedi all'interfaccia web di TVHeadend: http://localhost:9981
 2. Apri le tab `Configurazione` > `Generale` > `Base`
@@ -33,7 +38,8 @@
 5. Lascia il campo `Picon name scheme` come predefinito: **Predefinito**
 6. Premi sul pulsante `Salva`
 ---
-### Loghi Canale Mancanti
+<h2>Loghi Canale Mancanti</h2>
+
 #### Poiché questo archivio è un lavoro per il tempo libero, molti canali sono ancora mancanti, principalmente i canali regionali
 - Inviare una **Request** se desideri aggiungere altri loghi italiani
 - Fornire le seguenti informazioni obbligatorie (o la **Request** verrà rifiutata):
@@ -44,7 +50,9 @@
 Se il logo del canale richiesto viene utilizzato su più canali, fornire tutte le informazioni obbligatorie come mostrato nella sezione seguente.
 #### Sentiti libero di inviare il logo mancante in formato PNG 220x132 con sfondo trasparente
 ---
-### Lista loghi Rai 3 TGR già inclusi
+<h2>Lista loghi Rai 3 TGR già inclusi</h2>
+
+#### Le immagini mancanti sono già pronte in attesa di sapere il nome del file picon.
 #### Invia una Request suggerendo uno dei loghi Rai 3 TGR mancanti nel formato seguente:
 ```
 Rai 3 TGR Sicilia:
